@@ -12,7 +12,7 @@ $~~~~~~$the post_index of the  largest disk  preserved on bit: (disk-1)\*bits\~d
 * for example, execute the code bfs.py  
 Please input the number of disks: 10  
 Please input the number of posts: 5  
-at begining: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]  []  []  []  []  
+at begining: \[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]  \[]  \[]  \[]  \[]  
 $~~$1from1to5: [10, 9, 8, 7, 6, 5, 4, 3, 2]  []  []  []  [1]    
 $~~$2from1to2: [10, 9, 8, 7, 6, 5, 4, 3]  [2]  []  []  [1]      
 $~~$3from1to4: [10, 9, 8, 7, 6, 5, 4]  [2]  []  [3]  [1]        
