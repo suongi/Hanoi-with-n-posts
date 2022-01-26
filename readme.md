@@ -5,9 +5,9 @@ The codes bfs.py and dfs.py is solution for the Tower of Hanoi with n posts.
 * index of disks is 1, 2, ..., disk  
 * index of posts is 0, 1, ..., post-1 for the computer; 1, 2, ..., post to show  
 * status is an integer  
-$~~~~~~$the post_index of the smallest disk preserved on bit: 0\~bits-1  
-$~~~~~~$the post_index of the      disk-2      preserved on bit: bits\~2\*bits-1  
-$~~~~~~$the post_index of the  largest disk  preserved on bit: (disk-1)\*bits\~disk\*bits-1  
+      the post_index of the smallest disk preserved on bit: 0\~bits-1  
+      the post_index of the      disk-2      preserved on bit: bits\~2\*bits-1  
+      the post_index of the  largest disk  preserved on bit: (disk-1)\*bits\~disk\*bits-1  
 * Function rightset incorporate every equal status into an only one  
 * for example, execute the code bfs.py  
 Please input the number of disks: 10  
